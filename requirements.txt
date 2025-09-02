@@ -1,0 +1,14 @@
+ipykernel
+pyresparser
+nltk
+pdfminer.six==20221105
+langchain_groq
+dotenv
+langchain
+langchain_core
+transformers==4.41.2
+sentence-transformers==3.0.1
+fastapi
+pydantic
+uvicorn
+python-multipart
