@@ -1,0 +1,54 @@
+{
+  "full_name": "Aashutosh Rathi",
+  "email": "aashutoshrathi@gmail.com",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "Java",
+    "C++",
+    "AWS",
+    "Shell",
+    "CSS",
+    "Dart",
+    "Go",
+    "SQL",
+    "Solidity",
+    "PHP",
+    "Android",
+    "Rust"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "IIIT Vadodara",
+      "year": "2016-2020"
+    },
+    {
+      "degree": "Frontend Developer Path",
+      "institution": "OpenClassroom",
+      "year": "Jan 2019 - Jan 2020"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "Lead Software Engineer",
+      "company": "Stackr Labs",
+      "years": "Feb 2024 - Dec 2024"
+    },
+    {
+      "job_title": "Senior Software Engineer",
+      "company": "Regie.ai",
+      "years": "Dec 2021 - Feb 2024"
+    },
+    {
+      "job_title": "Software Development Engineer",
+      "company": "Jio",
+      "years": "Aug 2020 - Dec 2021"
+    },
+    {
+      "job_title": "Software Engineering Intern",
+      "company": "Shipsy",
+      "years": "Jan 2020 - Jul 2020; May 2019 - Jul 2019"
+    }
+  ]
+}

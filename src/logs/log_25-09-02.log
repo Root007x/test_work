@@ -1,0 +1,19 @@
+2025-09-02 16:24:34,900- INFO- PDF data extraction completed!
+2025-09-02 16:24:36,676- INFO- HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 16:24:36,676- INFO- Structure Data Extraction completed.
+2025-09-02 16:24:36,676- INFO- Json File Saved Successfully
+2025-09-02 16:28:42,692- INFO- PDF data extraction completed!
+2025-09-02 16:28:44,414- INFO- HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 16:28:44,424- INFO- Structure Data Extraction completed.
+2025-09-02 16:28:44,424- INFO- Json File Saved Successfully
+2025-09-02 16:28:44,428- INFO- Loading Json File........
+2025-09-02 16:28:44,864- INFO- HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 16:28:44,870- INFO- Score Generated Successfully
+2025-09-02 16:31:18,856- INFO- PDF data extraction completed!
+2025-09-02 16:31:20,724- INFO- HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 16:31:20,737- INFO- Structure Data Extraction completed.
+2025-09-02 16:31:20,737- INFO- Json File Saved Successfully
+2025-09-02 16:31:20,737- INFO- Loading Json File........
+2025-09-02 16:31:21,066- INFO- HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-02 16:31:21,066- INFO- Score Generated Successfully
+2025-09-02 16:31:23,940- INFO- HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

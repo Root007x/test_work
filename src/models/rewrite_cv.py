@@ -21,7 +21,7 @@ class ReWrite:
         
         
         if score > 50:
-            return score
+            return {"Score" : score}
         else:
             
             re_write_prompt = PromptTemplate(

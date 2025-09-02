@@ -6,7 +6,7 @@ from langchain_core.output_parsers import JsonOutputParser
 from core.logging import logger
 from schemas.prompts import PARSING_TEMPLATE
 from config.config import JSON_SAVE_FILE_LOCATION
-from src.utils.helper import save_json_file
+from utils.helper import save_json_file
 
 
 logger = logger(__name__)
