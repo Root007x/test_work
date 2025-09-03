@@ -2,10 +2,10 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
 
 
-from core.logging import logger
-from utils.helper import load_json_file
-from config.config import JSON_SAVE_FILE_LOCATION
-from schemas.prompts import SCORE_TEMPLATE
+from src.core.logging import logger
+from src.utils.helper import load_json_file
+from src.config.config import JSON_SAVE_FILE_LOCATION
+from src.schemas.prompts import SCORE_TEMPLATE
 
 logger = logger(__name__)
 

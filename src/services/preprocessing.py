@@ -3,10 +3,10 @@ from pdfminer.high_level import extract_text
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
 
-from core.logging import logger
-from schemas.prompts import PARSING_TEMPLATE
-from config.config import JSON_SAVE_FILE_LOCATION
-from utils.helper import save_json_file
+from src.core.logging import logger
+from src.schemas.prompts import PARSING_TEMPLATE
+from src.config.config import JSON_SAVE_FILE_LOCATION
+from src.utils.helper import save_json_file
 
 
 logger = logger(__name__)
