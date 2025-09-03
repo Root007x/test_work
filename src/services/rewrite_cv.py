@@ -21,7 +21,7 @@ class ReWrite:
         
         
         if score > 50:
-            return {"Score" : score}
+            return {"CV/Resume Alignment Score " : score}
         else:
             
             re_write_prompt = PromptTemplate(

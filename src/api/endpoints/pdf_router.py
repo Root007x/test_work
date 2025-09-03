@@ -4,9 +4,9 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
 from src.config.config import GROQ_API_KEY, LLM_MODEL_NAME
-from src.models.preprocessing import Preprocess
-from src.models.score import GenerateScore
-from src.models.rewrite_cv import ReWrite
+from src.services.preprocessing import Preprocess
+from src.services.score import GenerateScore
+from src.services.rewrite_cv import ReWrite
 
 
 def final_call(pdf_file, job_des):
